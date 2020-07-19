@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋, my name is Het Jagani
+### 🐧 I am a ICT Engineer 
+![Happy Coding](coding.jpg)
 
-<!--
-**hetjagani/hetjagani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am interested in Cloud Computing, Distributed Applications, DevOps and Software Development.
 
-Here are some ideas to get you started:
+Skills: JS / JAVA / GO / C/C++ / PYTHON / ANGULAR / SPRING BOOT / ANSIBLE / DOCKER / AWS ADMINISTRATION
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on Chat Application. 
+
+🌱 I’m currently learning Go, WebSockets, React. 
+
+📫 How to reach me: hetpatel572@gmail.com 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='35'>](hetjagani.imfast.io)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/hetjagani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/het-jagani-225705142/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='35'>](https://www.instagram.com/het_jagani_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='35'>](https://twitter.com/jagani_het)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/7833624/het-jagani?tab=profile)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=hetjagani&show_icons=true)
