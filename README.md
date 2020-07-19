@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Het Jagani
 ### 🐧 I am a ICT Engineer 
-![Happy Coding](coding.jpg)
+![Happy Coding](https://github.com/hetjagani/hetjagani/raw/master/coding.jpg)
 
 I am interested in Cloud Computing, Distributed Applications, DevOps and Software Development.
 
