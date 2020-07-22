@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is Het Jagani
-### 🐧 I am a ICT Engineer 
+### 🐧 I am a Information and Communication Technology (ICT) Engineer 
 ![Happy Coding](https://github.com/hetjagani/hetjagani/raw/master/coding.jpg)
 
 I am interested in Cloud Computing, Distributed Applications, DevOps and Software Development.
@@ -8,7 +8,7 @@ Skills: JS / JAVA / GO / C/C++ / PYTHON / ANGULAR / SPRING BOOT / ANSIBLE / DOCK
 
 🔭 I’m currently working on Chat Application. 
 
-🌱 I’m currently learning Go, WebSockets, React. 
+🌱 I’m currently learning Go, WebSockets. 
 
 📫 How to reach me: hetpatel572@gmail.com 
 
