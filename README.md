@@ -3,7 +3,7 @@
 I am a Information and Communication Technology (ICT) Engineer interested in Cloud Computing, Distributed Applications, DevOps and Software Development.
 > Love Physics ⚛️ and Linux 🐧
 
-![Happy Coding](https://github.com/hetjagani/hetjagani/raw/master/coding.jpg)
+![There are two ways of creating software.](https://github.com/hetjagani/hetjagani/raw/master/Hoare.jpg)
 
 ### Values
 - 🍎 Curious and Interested in solving hard problems.
