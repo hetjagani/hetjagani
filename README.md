@@ -1,9 +1,9 @@
 ## Hi there 👋, my name is Het Jagani
 
 I am a Information and Communication Technology (ICT) Engineer interested in Cloud Computing, Distributed Applications, DevOps and Software Development.
-> Love Physics ⚛️ and Linux 🐧
 
 ![There are two ways of creating software.](https://github.com/hetjagani/hetjagani/raw/master/Hoare.jpg)
+> Love Physics ⚛️ and Linux 🐧
 
 ### Values
 - 🍎 Curious and Interested in solving hard problems.
