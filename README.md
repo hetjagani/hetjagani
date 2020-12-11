@@ -18,4 +18,4 @@ JS / JAVA / GO / C/C++ / PYTHON / ANGULAR / SPRING BOOT / ANSIBLE / DOCKER / AWS
 
 
 ### Some Statistics
-![Github stats](https://github-readme-stats.vercel.app/api?username=hetjagani&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=hetjagani&show_icons=true&theme=highcontrast)
