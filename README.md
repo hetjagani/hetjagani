@@ -2,7 +2,7 @@
 
 I am a Information and Communication Technology (ICT) Engineer interested in Cloud Computing, Distributed Applications, DevOps and Software Development.
 
-![There are two ways of creating software.](https://raw.githubusercontent.com/hetjagani/hetjagani/master/feynman.jpg)
+![There are two ways of creating software.](https://raw.githubusercontent.com/hetjagani/hetjagani/master/apj.jpg)
 > Love Physics ⚛️ and Linux 🐧
 
 ### Values
