@@ -114,7 +114,28 @@ I am a Computer Software Engineer specializing in Enterprise Software Technologi
 <br/>  
 
 ### Get in touch
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='35'>](https://hetjagani.github.io)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/hetjagani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/het-jagani-225705142/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='35'>](https://www.instagram.com/het_jagani_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='35'>](https://twitter.com/jagani_het)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/7833624/het-jagani?tab=profile)
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='35'>](https://hetjagani.github.io)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/hetjagani)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='35'>](https://www.instagram.com/het_jagani_/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='35'>](https://twitter.com/jagani_het)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/7833624/het-jagani?tab=profile)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/het-jagani-225705142/)  
+ -->
+<div>
+<a href="https://www.linkedin.com/in/het-jagani-225705142/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/7833624/het-jagani" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a> 
+<a href="https://twitter.com/jagani_het" target="_blank">
+<img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white />
+</a> 
+<a href="https://www.reddit.com/user/hetpatel572" target="_blank">
+<img src=https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white />
+</a> 
+</div> 
 
 
 ### Some Statistics
