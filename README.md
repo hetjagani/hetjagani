@@ -9,6 +9,7 @@ I am a Computer Software Engineer specializing in Enterprise Software Technologi
 - 🍎 Curious and Interested in solving hard problems.
 - 📐 Emphasis more on Designing and Modeling of problem.
 - 🙌 Collaboration and consensus.
+- 🌟 Understanding abstraction and craftsmanship of code
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
