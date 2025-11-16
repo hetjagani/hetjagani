@@ -78,7 +78,7 @@ const het = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hetjagani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6CE5E8&icon_color=6CE5E8&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hetjagani&layout=compact&langs_count=15&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6CE5E8&text_color=ffffff&hide=jupyter%20notebook,c,html,css"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hetjagani&layout=compact&langs_count=20&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6CE5E8&text_color=ffffff"/>
 </div>
 
 <div align="center">
