@@ -16,15 +16,20 @@
 const het = {
     role: "Software Engineer",
     focus: ["Enterprise Software", "Cloud Computing", "Distributed Systems"],
-    interests: ["DevOps", "System Design", "Open Source"],
-    philosophy: {
-        design: "Emphasis on modeling and abstraction",
-        collaboration: "Consensus-driven development",
-        learning: "Curious about solving hard problems"
-    },
-    loves: ["Physics ⚛️", "Linux 🐧", "Rust 🦀"]
+    interests: ["System Design", "Software Architecture", "Open Source"],
+    currentPassion: "Physics ⚛️ | Linux 🐧 | Rust 🦀"
 };
 ```
+
+### 💎 Core Values
+
+<div align="center">
+
+| 🍎 **Problem Solving** | 📐 **Design First** | 🙌 **Collaboration** | 🌟 **Craftsmanship** |
+|:---:|:---:|:---:|:---:|
+| Curious and interested in solving hard problems | Emphasis on designing and modeling before coding | Building consensus through teamwork | Understanding abstraction and code quality |
+
+</div>
 
 ---
 
@@ -73,12 +78,12 @@ const het = {
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hetjagani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6CE5E8&icon_color=6CE5E8&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetjagani&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6CE5E8&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hetjagani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6CE5E8&icon_color=6CE5E8&text_color=ffffff&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hetjagani&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6CE5E8&text_color=ffffff&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hetjagani&theme=tokyonight&hide_border=true&background=0D1117&stroke=6CE5E8&ring=6CE5E8&fire=FF6B6B&currStreakLabel=6CE5E8" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=hetjagani&theme=tokyonight&hide_border=true&background=0D1117&stroke=6CE5E8&ring=6CE5E8&fire=FF6B6B&currStreakLabel=6CE5E8" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
