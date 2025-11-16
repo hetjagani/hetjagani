@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6CE5E8&center=true&vCenter=true&multiline=false&width=600&lines=Software+Engineer+%7C+Cloud+Architect;Building+Scalable+Distributed+Systems;DevOps+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6CE5E8&center=true&vCenter=true&multiline=false&width=700&lines=Software+Engineer;Software+Architect;Cloud+Architect;Open+Source+Contributor;Building+Distributed+Systems;DevOps+%26+System+Design+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,8 +16,7 @@
 const het = {
     role: "Software Engineer",
     focus: ["Enterprise Software", "Cloud Computing", "Distributed Systems"],
-    interests: ["System Design", "Software Architecture", "Open Source"],
-    currentPassion: "Physics ⚛️ | Linux 🐧 | Rust 🦀"
+    interests: ["System Design", "Software Architecture", "Open Source", "Philosophy"]
 };
 ```
 
