@@ -122,7 +122,7 @@ const het = {
 
 ### 👀 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/hetjagani/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=hetjagani&color=6CE5E8&style=for-the-badge&label=Profile+Views)
 
 **Thanks for visiting!** ⭐️ From [hetjagani](https://github.com/hetjagani)
 
